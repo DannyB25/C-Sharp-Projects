@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\bin\Debug\net8.0\MathAndComparisonOperators.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\bin\Debug\net8.0\MathAndComparisonOperators.deps.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\bin\Debug\net8.0\MathAndComparisonOperators.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\bin\Debug\net8.0\MathAndComparisonOperators.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\bin\Debug\net8.0\MathAndComparisonOperators.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\obj\Debug\net8.0\MathAndComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\obj\Debug\net8.0\MathAndComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\obj\Debug\net8.0\MathAndComparisonOperators.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\obj\Debug\net8.0\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\obj\Debug\net8.0\MathAndComparisonOperators.sourcelink.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\obj\Debug\net8.0\MathAndComparisonOperators.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\obj\Debug\net8.0\refint\MathAndComparisonOperators.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\obj\Debug\net8.0\MathAndComparisonOperators.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\obj\Debug\net8.0\MathAndComparisonOperators.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Challenge\Challenge\obj\Debug\net8.0\ref\MathAndComparisonOperators.dll
