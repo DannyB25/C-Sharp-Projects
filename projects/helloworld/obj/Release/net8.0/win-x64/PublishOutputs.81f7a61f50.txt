@@ -1,0 +1,5 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C#\projects\helloworld\bin\Release\net8.0\win-x64\publish\helloworld.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C#\projects\helloworld\bin\Release\net8.0\win-x64\publish\helloworld.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C#\projects\helloworld\bin\Release\net8.0\win-x64\publish\helloworld.deps.json
+C:\Users\Student\OneDrive\Documents\GitHub\C#\projects\helloworld\bin\Release\net8.0\win-x64\publish\helloworld.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\GitHub\C#\projects\helloworld\bin\Release\net8.0\win-x64\publish\helloworld.pdb

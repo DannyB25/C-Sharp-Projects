@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net8.0\VariablesAndDataTypes.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net8.0\VariablesAndDataTypes.deps.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net8.0\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net8.0\VariablesAndDataTypes.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\net8.0\VariablesAndDataTypes.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net8.0\VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net8.0\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net8.0\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net8.0\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net8.0\VariablesAndDataTypes.sourcelink.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net8.0\VariablesAndDataTypes.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net8.0\refint\VariablesAndDataTypes.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net8.0\VariablesAndDataTypes.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net8.0\VariablesAndDataTypes.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\net8.0\ref\VariablesAndDataTypes.dll

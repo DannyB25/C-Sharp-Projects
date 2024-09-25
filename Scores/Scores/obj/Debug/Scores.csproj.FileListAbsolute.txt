@@ -1,0 +1,7 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C#\Scores\Scores\bin\Debug\Scores.exe.config
+C:\Users\Student\OneDrive\Documents\GitHub\C#\Scores\Scores\bin\Debug\Scores.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C#\Scores\Scores\bin\Debug\Scores.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C#\Scores\Scores\obj\Debug\Scores.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C#\Scores\Scores\obj\Debug\Scores.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C#\Scores\Scores\obj\Debug\Scores.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C#\Scores\Scores\obj\Debug\Scores.pdb

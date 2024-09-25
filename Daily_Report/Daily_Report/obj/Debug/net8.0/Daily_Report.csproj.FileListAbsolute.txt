@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.sourcelink.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\net8.0\Daily_Report.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\net8.0\Daily_Report.deps.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\net8.0\Daily_Report.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\net8.0\Daily_Report.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\bin\Debug\net8.0\Daily_Report.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\net8.0\refint\Daily_Report.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\net8.0\Daily_Report.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Daily_Report\Daily_Report\obj\Debug\net8.0\ref\Daily_Report.dll
