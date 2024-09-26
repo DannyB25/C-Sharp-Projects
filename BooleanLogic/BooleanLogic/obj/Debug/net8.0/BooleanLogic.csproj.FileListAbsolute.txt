@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.sourcelink.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.deps.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\bin\Debug\net8.0\BooleanLogic.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\refint\BooleanLogic.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\BooleanLogic.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\BooleanLogic\BooleanLogic\obj\Debug\net8.0\ref\BooleanLogic.dll

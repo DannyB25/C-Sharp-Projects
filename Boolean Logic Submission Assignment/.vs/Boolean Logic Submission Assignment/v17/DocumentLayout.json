@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Boolean Logic Submission Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E9F733-8303-4149-97EE-A470B1C169C6}|Boolean Logic Submission Assignment\\Boolean Logic Submission Assignment.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\boolean logic submission assignment\\boolean logic submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E9F733-8303-4149-97EE-A470B1C169C6}|Boolean Logic Submission Assignment\\Boolean Logic Submission Assignment.csproj|solutionrelative:boolean logic submission assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Boolean Logic Submission Assignment\\Boolean Logic Submission Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Boolean Logic Submission Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Boolean Logic Submission Assignment\\Boolean Logic Submission Assignment\\Program.cs",
+              "RelativeToolTip": "Boolean Logic Submission Assignment\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:40:58.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

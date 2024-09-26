@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\bin\Debug\net8.0\Boolean Logic Submission Assignment.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\bin\Debug\net8.0\Boolean Logic Submission Assignment.deps.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\bin\Debug\net8.0\Boolean Logic Submission Assignment.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\bin\Debug\net8.0\Boolean Logic Submission Assignment.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\bin\Debug\net8.0\Boolean Logic Submission Assignment.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\obj\Debug\net8.0\Boolean Logic Submission Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\obj\Debug\net8.0\Boolean Logic Submission Assignment.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\obj\Debug\net8.0\Boolean Logic Submission Assignment.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\obj\Debug\net8.0\Boolean Logic Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\obj\Debug\net8.0\Boolean Logic Submission Assignment.sourcelink.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\obj\Debug\net8.0\Boolean Logic Submission Assignment.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\obj\Debug\net8.0\refint\Boolean Logic Submission Assignment.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\obj\Debug\net8.0\Boolean Logic Submission Assignment.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\obj\Debug\net8.0\Boolean Logic Submission Assignment.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Boolean Logic Submission Assignment\Boolean Logic Submission Assignment\obj\Debug\net8.0\ref\Boolean Logic Submission Assignment.dll
