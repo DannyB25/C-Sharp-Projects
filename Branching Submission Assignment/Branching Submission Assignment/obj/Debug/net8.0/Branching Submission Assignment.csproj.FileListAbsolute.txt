@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\bin\Debug\net8.0\Branching Submission Assignment.exe
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\bin\Debug\net8.0\Branching Submission Assignment.deps.json
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\bin\Debug\net8.0\Branching Submission Assignment.runtimeconfig.json
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\bin\Debug\net8.0\Branching Submission Assignment.dll
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\bin\Debug\net8.0\Branching Submission Assignment.pdb
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\net8.0\Branching Submission Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\net8.0\Branching Submission Assignment.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\net8.0\Branching Submission Assignment.AssemblyInfo.cs
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\net8.0\Branching Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\net8.0\Branching Submission Assignment.dll
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\net8.0\refint\Branching Submission Assignment.dll
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\net8.0\Branching Submission Assignment.pdb
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\net8.0\Branching Submission Assignment.genruntimeconfig.cache
+C:\Users\Student\source\repos\Branching Submission Assignment\Branching Submission Assignment\obj\Debug\net8.0\ref\Branching Submission Assignment.dll
