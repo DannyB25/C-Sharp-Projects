@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\net8.0\StringFunctions.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\net8.0\StringFunctions.deps.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\net8.0\StringFunctions.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\net8.0\StringFunctions.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\bin\Debug\net8.0\StringFunctions.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.sourcelink.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\net8.0\refint\StringFunctions.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\net8.0\StringFunctions.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\StringFunctions\StringFunctions\obj\Debug\net8.0\ref\StringFunctions.dll
