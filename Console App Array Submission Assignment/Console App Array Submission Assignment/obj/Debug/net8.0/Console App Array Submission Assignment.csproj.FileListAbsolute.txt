@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\bin\Debug\net8.0\Console App Array Submission Assignment.exe
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\bin\Debug\net8.0\Console App Array Submission Assignment.deps.json
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\bin\Debug\net8.0\Console App Array Submission Assignment.runtimeconfig.json
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\bin\Debug\net8.0\Console App Array Submission Assignment.dll
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\bin\Debug\net8.0\Console App Array Submission Assignment.pdb
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\obj\Debug\net8.0\Console App Array Submission Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\obj\Debug\net8.0\Console App Array Submission Assignment.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\obj\Debug\net8.0\Console App Array Submission Assignment.AssemblyInfo.cs
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\obj\Debug\net8.0\Console App Array Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\obj\Debug\net8.0\Console App Array Submission Assignment.dll
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\obj\Debug\net8.0\refint\Console App Array Submission Assignment.dll
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\obj\Debug\net8.0\Console App Array Submission Assignment.pdb
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\obj\Debug\net8.0\Console App Array Submission Assignment.genruntimeconfig.cache
+C:\Users\Student\source\repos\Console App Array Submission Assignment\Console App Array Submission Assignment\obj\Debug\net8.0\ref\Console App Array Submission Assignment.dll
