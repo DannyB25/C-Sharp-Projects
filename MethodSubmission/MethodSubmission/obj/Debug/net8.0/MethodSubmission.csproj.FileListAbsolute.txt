@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\bin\Debug\net8.0\MethodSubmission.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\bin\Debug\net8.0\MethodSubmission.deps.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\bin\Debug\net8.0\MethodSubmission.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\bin\Debug\net8.0\MethodSubmission.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\bin\Debug\net8.0\MethodSubmission.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\obj\Debug\net8.0\MethodSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\obj\Debug\net8.0\MethodSubmission.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\obj\Debug\net8.0\MethodSubmission.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\obj\Debug\net8.0\MethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\obj\Debug\net8.0\MethodSubmission.sourcelink.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\obj\Debug\net8.0\MethodSubmission.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\obj\Debug\net8.0\refint\MethodSubmission.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\obj\Debug\net8.0\MethodSubmission.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\obj\Debug\net8.0\MethodSubmission.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\MethodSubmission\MethodSubmission\obj\Debug\net8.0\ref\MethodSubmission.dll
