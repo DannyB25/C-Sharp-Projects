@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Main Method Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FC0C13-0DDD-4C43-877F-252CC4143064}|Main Method Assignment\\Main Method Assignment.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\main method assignment\\main method assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FC0C13-0DDD-4C43-877F-252CC4143064}|Main Method Assignment\\Main Method Assignment.csproj|solutionrelative:main method assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FC0C13-0DDD-4C43-877F-252CC4143064}|Main Method Assignment\\Main Method Assignment.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\main method assignment\\main method assignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FC0C13-0DDD-4C43-877F-252CC4143064}|Main Method Assignment\\Main Method Assignment.csproj|solutionrelative:main method assignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Main Method Assignment\\Main Method Assignment\\MathOperations.cs",
+              "RelativeDocumentMoniker": "Main Method Assignment\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Main Method Assignment\\Main Method Assignment\\MathOperations.cs",
+              "RelativeToolTip": "Main Method Assignment\\MathOperations.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:33:55.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Main Method Assignment\\Main Method Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Main Method Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Main Method Assignment\\Main Method Assignment\\Program.cs",
+              "RelativeToolTip": "Main Method Assignment\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:29:33.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
