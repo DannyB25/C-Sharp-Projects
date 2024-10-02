@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Class Submission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF5F80B-9732-4934-9195-B80637C1D5E7}|Class Submission\\Class Submission.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\class submission\\class submission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF5F80B-9732-4934-9195-B80637C1D5E7}|Class Submission\\Class Submission.csproj|solutionrelative:class submission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF5F80B-9732-4934-9195-B80637C1D5E7}|Class Submission\\Class Submission.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\class submission\\class submission\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF5F80B-9732-4934-9195-B80637C1D5E7}|Class Submission\\Class Submission.csproj|solutionrelative:class submission\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Class Submission\\Class Submission\\MathOperations.cs",
+              "RelativeDocumentMoniker": "Class Submission\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Class Submission\\Class Submission\\MathOperations.cs",
+              "RelativeToolTip": "Class Submission\\MathOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:09:42.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Class Submission\\Class Submission\\Program.cs",
+              "RelativeDocumentMoniker": "Class Submission\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Class Submission\\Class Submission\\Program.cs",
+              "RelativeToolTip": "Class Submission\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:59:59.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
