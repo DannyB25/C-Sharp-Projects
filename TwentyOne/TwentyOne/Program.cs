@@ -10,6 +10,11 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            Game game = new TwentyOneGame();
+            game.Players = new List<Player>();
+            Player player = new Player();
+            game += player; //parameter is game and player returns a game. basically acts like a method
+            game -= player; 
 
             Deck deck = new Deck();
             deck.Shuffle(3);
