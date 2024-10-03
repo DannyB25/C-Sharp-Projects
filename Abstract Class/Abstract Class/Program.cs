@@ -11,5 +11,12 @@ class Program //declares program class which contains the main method where the 
             LastName = "Student" //values provided 
         };
         employee.SayName(); //calling the SayName method on the employee object output would be Name: Sample Student 
+    
+        //using polymorphism to create an IQuittable reference
+        IQuittable quitting = employee;
+
+        //call the quit method 
+        quitting.Quit();
+        Console.ReadLine();
     }
 }

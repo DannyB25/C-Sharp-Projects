@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Abstract Class\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C8358C1-0ED2-4264-AA71-162CFA395312}|Abstract Class\\Abstract Class.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\abstract class\\abstract class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8358C1-0ED2-4264-AA71-162CFA395312}|Abstract Class\\Abstract Class.csproj|solutionrelative:abstract class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C8358C1-0ED2-4264-AA71-162CFA395312}|Abstract Class\\Abstract Class.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\abstract class\\abstract class\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C8358C1-0ED2-4264-AA71-162CFA395312}|Abstract Class\\Abstract Class.csproj|solutionrelative:abstract class\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{7C8358C1-0ED2-4264-AA71-162CFA395312}|Abstract Class\\Abstract Class.csproj|solutionrelative:abstract class\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C8358C1-0ED2-4264-AA71-162CFA395312}|Abstract Class\\Abstract Class.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\abstract class\\abstract class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C8358C1-0ED2-4264-AA71-162CFA395312}|Abstract Class\\Abstract Class.csproj|solutionrelative:abstract class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C8358C1-0ED2-4264-AA71-162CFA395312}|Abstract Class\\Abstract Class.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\abstract class\\abstract class\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8358C1-0ED2-4264-AA71-162CFA395312}|Abstract Class\\Abstract Class.csproj|solutionrelative:abstract class\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Abstract Class\\Abstract Class\\IQuittable.cs",
+              "RelativeDocumentMoniker": "Abstract Class\\IQuittable.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Abstract Class\\Abstract Class\\IQuittable.cs",
+              "RelativeToolTip": "Abstract Class\\IQuittable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:40:09.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Abstract Class\\Abstract Class\\Employee.cs",
               "RelativeDocumentMoniker": "Abstract Class\\Employee.cs",
               "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Abstract Class\\Abstract Class\\Employee.cs",
               "RelativeToolTip": "Abstract Class\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T06:52:03.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Abstract Class\\Abstract Class\\Person.cs",
               "RelativeDocumentMoniker": "Abstract Class\\Person.cs",
@@ -52,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Abstract Class\\Abstract Class\\Program.cs",
               "RelativeDocumentMoniker": "Abstract Class\\Program.cs",
               "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Abstract Class\\Abstract Class\\Program.cs",
               "RelativeToolTip": "Abstract Class\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T06:48:41.229Z",
               "EditorCaption": ""
