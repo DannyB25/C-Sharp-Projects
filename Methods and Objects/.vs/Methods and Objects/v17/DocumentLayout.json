@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Methods and Objects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFFEF34-0699-4ECB-892A-F0BE59ED06B9}|Methods and Objects\\Methods and Objects.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\methods and objects\\methods and objects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFFEF34-0699-4ECB-892A-F0BE59ED06B9}|Methods and Objects\\Methods and Objects.csproj|solutionrelative:methods and objects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFFEF34-0699-4ECB-892A-F0BE59ED06B9}|Methods and Objects\\Methods and Objects.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\methods and objects\\methods and objects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFFEF34-0699-4ECB-892A-F0BE59ED06B9}|Methods and Objects\\Methods and Objects.csproj|solutionrelative:methods and objects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFFEF34-0699-4ECB-892A-F0BE59ED06B9}|Methods and Objects\\Methods and Objects.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\methods and objects\\methods and objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFFEF34-0699-4ECB-892A-F0BE59ED06B9}|Methods and Objects\\Methods and Objects.csproj|solutionrelative:methods and objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Methods and Objects\\Methods and Objects\\Employee.cs",
+              "RelativeDocumentMoniker": "Methods and Objects\\Employee.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Methods and Objects\\Methods and Objects\\Employee.cs",
+              "RelativeToolTip": "Methods and Objects\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:29:06.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Methods and Objects\\Methods and Objects\\Person.cs",
+              "RelativeDocumentMoniker": "Methods and Objects\\Person.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Methods and Objects\\Methods and Objects\\Person.cs",
+              "RelativeToolTip": "Methods and Objects\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:28:40.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Methods and Objects\\Methods and Objects\\Program.cs",
+              "RelativeDocumentMoniker": "Methods and Objects\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Methods and Objects\\Methods and Objects\\Program.cs",
+              "RelativeToolTip": "Methods and Objects\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:28:04.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

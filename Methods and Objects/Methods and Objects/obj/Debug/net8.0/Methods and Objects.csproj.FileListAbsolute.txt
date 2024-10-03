@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\bin\Debug\net8.0\Methods and Objects.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\bin\Debug\net8.0\Methods and Objects.deps.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\bin\Debug\net8.0\Methods and Objects.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\bin\Debug\net8.0\Methods and Objects.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\bin\Debug\net8.0\Methods and Objects.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\obj\Debug\net8.0\Methods and Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\obj\Debug\net8.0\Methods and Objects.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\obj\Debug\net8.0\Methods and Objects.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\obj\Debug\net8.0\Methods and Objects.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\obj\Debug\net8.0\Methods and Objects.sourcelink.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\obj\Debug\net8.0\Methods and Objects.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\obj\Debug\net8.0\refint\Methods and Objects.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\obj\Debug\net8.0\Methods and Objects.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\obj\Debug\net8.0\Methods and Objects.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Methods and Objects\Methods and Objects\obj\Debug\net8.0\ref\Methods and Objects.dll
