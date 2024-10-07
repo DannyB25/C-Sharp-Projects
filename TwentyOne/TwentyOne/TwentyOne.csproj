@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Casino">
+      <HintPath>..\Casino\bin\Debug\net8.0\Casino.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

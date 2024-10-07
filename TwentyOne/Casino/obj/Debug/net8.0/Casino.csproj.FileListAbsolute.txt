@@ -1,0 +1,12 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.sourcelink.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\bin\Debug\net8.0\Casino.deps.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\bin\Debug\net8.0\Casino.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\bin\Debug\net8.0\Casino.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\refint\Casino.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\Casino.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\Casino\obj\Debug\net8.0\ref\Casino.dll

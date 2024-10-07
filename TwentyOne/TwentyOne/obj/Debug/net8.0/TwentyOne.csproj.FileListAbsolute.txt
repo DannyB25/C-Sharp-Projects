@@ -27,3 +27,7 @@ C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\
 C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.pdb
 C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.genruntimeconfig.cache
 C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\ref\TwentyOne.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\Casino.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\net8.0\Casino.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\net8.0\TwentyOne.csproj.Up2Date
