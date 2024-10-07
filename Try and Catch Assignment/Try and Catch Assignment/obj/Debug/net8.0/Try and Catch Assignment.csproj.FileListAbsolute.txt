@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\bin\Debug\net8.0\Try and Catch Assignment.exe
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\bin\Debug\net8.0\Try and Catch Assignment.deps.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\bin\Debug\net8.0\Try and Catch Assignment.runtimeconfig.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\bin\Debug\net8.0\Try and Catch Assignment.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\bin\Debug\net8.0\Try and Catch Assignment.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\obj\Debug\net8.0\Try and Catch Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\obj\Debug\net8.0\Try and Catch Assignment.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\obj\Debug\net8.0\Try and Catch Assignment.AssemblyInfo.cs
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\obj\Debug\net8.0\Try and Catch Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\obj\Debug\net8.0\Try and Catch Assignment.sourcelink.json
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\obj\Debug\net8.0\Try and Catch Assignment.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\obj\Debug\net8.0\refint\Try and Catch Assignment.dll
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\obj\Debug\net8.0\Try and Catch Assignment.pdb
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\obj\Debug\net8.0\Try and Catch Assignment.genruntimeconfig.cache
+C:\Users\Student\OneDrive\Documents\GitHub\C-Sharp-Projects\Try and Catch Assignment\Try and Catch Assignment\obj\Debug\net8.0\ref\Try and Catch Assignment.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Try and Catch Assignment/1.0.0": {
+        "runtime": {
+          "Try and Catch Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Try and Catch Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

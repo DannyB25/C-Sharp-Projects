@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Try and Catch Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E01275B8-A313-4C4A-85D9-8DF0AA2E7302}|Try and Catch Assignment\\Try and Catch Assignment.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\try and catch assignment\\try and catch assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01275B8-A313-4C4A-85D9-8DF0AA2E7302}|Try and Catch Assignment\\Try and Catch Assignment.csproj|solutionrelative:try and catch assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Try and Catch Assignment\\Try and Catch Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Try and Catch Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\Try and Catch Assignment\\Try and Catch Assignment\\Program.cs",
+              "RelativeToolTip": "Try and Catch Assignment\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:11:33.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
