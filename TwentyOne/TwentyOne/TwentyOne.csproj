@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="Casino">
       <HintPath>..\Casino\bin\Debug\net8.0\Casino.dll</HintPath>
     </Reference>
