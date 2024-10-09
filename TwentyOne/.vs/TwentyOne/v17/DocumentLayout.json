@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{1CDAADF5-55B0-4170-B138-5CA9CDC067BA}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CDAADF5-55B0-4170-B138-5CA9CDC067BA}|TwentyOne\\TwentyOne.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\twentyone\\twentyone\\exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CDAADF5-55B0-4170-B138-5CA9CDC067BA}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{559E083B-4CA6-47E0-83EC-267027FADDA4}|Casino\\Casino.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\twentyone\\casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{559E083B-4CA6-47E0-83EC-267027FADDA4}|Casino\\Casino.csproj|solutionrelative:casino\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDAADF5-55B0-4170-B138-5CA9CDC067BA}|TwentyOne\\TwentyOne.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\twentyone\\twentyone\\exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDAADF5-55B0-4170-B138-5CA9CDC067BA}|TwentyOne\\TwentyOne.csproj|solutionrelative:twentyone\\exceptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{559E083B-4CA6-47E0-83EC-267027FADDA4}|Casino\\Casino.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\twentyone\\casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ExceptionEntity.cs",
               "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\TwentyOne\\TwentyOne\\ExceptionEntity.cs",
               "RelativeDocumentMoniker": "TwentyOne\\ExceptionEntity.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TwentyOneGame.cs",
               "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\TwentyOne\\Casino\\TwentyOneGame.cs",
               "RelativeDocumentMoniker": "Casino\\TwentyOneGame.cs",
@@ -72,8 +72,7 @@
               "RelativeToolTip": "Casino\\Dealer.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:03:27.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T19:03:27.981Z"
             },
             {
               "$type": "Document",
@@ -83,7 +82,7 @@
               "RelativeDocumentMoniker": "TwentyOne\\Program.cs",
               "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\TwentyOne\\TwentyOne\\Program.cs",
               "RelativeToolTip": "TwentyOne\\Program.cs",
-              "ViewState": "AQIAAGsAAAAAAAAAAAAAAIMAAAAQAAAA",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAowG8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T06:21:28.997Z",
               "EditorCaption": ""
@@ -98,8 +97,7 @@
               "RelativeToolTip": "Casino\\FraudException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T22:03:38.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T22:03:38.304Z"
             },
             {
               "$type": "Document",
@@ -111,8 +109,7 @@
               "RelativeToolTip": "Casino\\Player.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowBwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T20:00:52.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T20:00:52.043Z"
             }
           ]
         }

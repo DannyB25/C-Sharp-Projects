@@ -87,11 +87,8 @@ namespace TwentyOne
 
         private static void UpdateDbWithException(Exception ex)
         {
-            string connectionString = @"Data Source=(localdb)\\ProjectModels;Initial Catalog=TwentyOneGame;
-                                        Integrated Security=True;Connect Timeout=30;Encrypt=False;  
-                                        TrustServerCertificate=False;ApplicationIntent=ReadWrite;
-                                        MultiSubnetFailover=False";
-        
+            string connectionString = @"Data Source=(localdb)\ProjectModels;Initial Catalog=TwentyOneGame; Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+
             string queryString = @"INSERT INTO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES
                                     (@ExceptionType, @ExceptionMessage, @TimeStamp)";
 
@@ -116,10 +113,7 @@ namespace TwentyOne
         }
         private static List<ExceptionEntity> ReadExceptions()
         {
-            string connectionString = @"Data Source=(localdb)\\ProjectModels;Initial Catalog=TwentyOneGame;
-                                        Integrated Security=True;Connect Timeout=30;Encrypt=False;  
-                                        TrustServerCertificate=False;ApplicationIntent=ReadWrite;
-                                        MultiSubnetFailover=False";
+            string connectionString = @"Data Source=(localdb)\ProjectModels;Initial Catalog=TwentyOneGame; Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
             string queryString = @"Select Id, ExceptionType, ExceptionMessage, TimeStamp from Exceptions";
 
