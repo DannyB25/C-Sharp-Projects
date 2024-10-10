@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNIjTquYsL0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\NewsletterAPPMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\bootstrap\\4.1.1\\bootstrap.4.1.1.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\popper.js\\1.14.0\\popper.js.1.14.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'bootstrap' 4.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-3wqf-4x89-9g79",
+      "libraryId": "bootstrap",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'bootstrap' 4.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-7mvr-5x2g-wfc8",
+      "libraryId": "bootstrap",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'bootstrap' 4.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-9v3m-8fp8-mj99",
+      "libraryId": "bootstrap",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'bootstrap' 4.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-pj7m-g53m-7638",
+      "libraryId": "bootstrap",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'bootstrap' 4.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vc8w-jr9v-vj7f",
+      "libraryId": "bootstrap",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

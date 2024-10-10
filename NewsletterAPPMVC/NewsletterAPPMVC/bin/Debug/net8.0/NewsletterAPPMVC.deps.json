@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NewsletterAPPMVC/1.0.0": {
+        "dependencies": {
+          "bootstrap": "4.1.1",
+          "jQuery": "3.7.1"
+        },
+        "runtime": {
+          "NewsletterAPPMVC.dll": {}
+        }
+      },
+      "bootstrap/4.1.1": {
+        "dependencies": {
+          "jQuery": "3.7.1",
+          "popper.js": "1.14.0"
+        }
+      },
+      "jQuery/3.7.1": {},
+      "popper.js/1.14.0": {}
+    }
+  },
+  "libraries": {
+    "NewsletterAPPMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bootstrap/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GAW8nugGorUxJRAIYrJ69tantpLlosqABI2cen74ipe3XbllvV2efdskNLXlt9vpsKL6JZjopLN56ib7R2cmJA==",
+      "path": "bootstrap/4.1.1",
+      "hashPath": "bootstrap.4.1.1.nupkg.sha512"
+    },
+    "jQuery/3.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rF8hnQxmBMlIspf8VN72bALtmIpKx6hKRpUdTOkp/8JzfF8KgNqHut5lOy9kFGvFIStumCqJ+PBxpI9gxpRYfQ==",
+      "path": "jquery/3.7.1",
+      "hashPath": "jquery.3.7.1.nupkg.sha512"
+    },
+    "popper.js/1.14.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SPxZdXknelgQ015wey7GMZvsVdt/SyEmHYORhEp5k/uF9MUk9DPtkn+6dR98fud2hVWJjZm9KKr474+r7WQt+A==",
+      "path": "popper.js/1.14.0",
+      "hashPath": "popper.js.1.14.0.nupkg.sha512"
+    }
+  }
+}
