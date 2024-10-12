@@ -50,9 +50,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
             "bootstrap": {
               "target": "Package",
-              "version": "[4.1.1, )"
+              "version": "[5.3.3, )"
             },
             "jQuery": {
               "target": "Package",

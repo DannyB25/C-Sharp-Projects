@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\views\\insurees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\views\\insurees\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\migrations\\20241011225953_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\migrations\\20241011225953_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\carinsurance\\carinsurance\\migrations\\20241012200230_updateinsuree2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0003609-E73F-4176-A089-7E865E8FA244}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\migrations\\20241012200230_updateinsuree2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Index.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T21:24:49.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T21:23:15.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241011225953_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Migrations\\20241011225953_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Migrations\\20241011225953_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Migrations\\20241011225953_InitialCreate.cs",
+              "RelativeToolTip": "CarInsurance\\Migrations\\20241011225953_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:32:35.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Create.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Create.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T01:30:47.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarInsurance\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:30:24.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241012200230_UpdateInsuree2.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Migrations\\20241012200230_UpdateInsuree2.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Migrations\\20241012200230_UpdateInsuree2.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\CarInsurance\\CarInsurance\\Migrations\\20241012200230_UpdateInsuree2.cs",
+              "RelativeToolTip": "CarInsurance\\Migrations\\20241012200230_UpdateInsuree2.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T20:02:31.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

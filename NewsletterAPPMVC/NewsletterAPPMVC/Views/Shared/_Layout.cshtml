@@ -4,13 +4,16 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Newsletter</title>
-    @Styles.Render("~/Content/css")
+    <!-- Link to Bootstrap CSS -->
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
     @RenderBody()
-    
-    @Scripts.Render("~/bundles/jquery")
-    @Scripts.Render("~/bundles/bootstrap")
+
+    <script src="~/js/jquery.min.js"></script>
+    <!-- Scripts -->
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
     @RenderSection("scripts", required: false)
 </body>
 </html>

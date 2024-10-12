@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\newsletterappmvc\\newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|solutionrelative:newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\newsletterappmvc\\newsletterappmvc\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\newsletterappmvc\\newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|solutionrelative:newsletterappmvc\\viewmodels\\signupvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\newsletterappmvc\\newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|solutionrelative:newsletterappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\newsletterappmvc\\newsletterappmvc\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|solutionrelative:newsletterappmvc\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\newsletterappmvc\\newsletterappmvc\\models\\newslettersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|solutionrelative:newsletterappmvc\\models\\newslettersignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\newsletterappmvc\\newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|solutionrelative:newsletterappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{794E9597-F193-4582-B072-90CCB2F0DE65}|NewsletterAPPMVC\\NewsletterAPPMVC.csproj|c:\\users\\student\\onedrive\\documents\\github\\c-sharp-projects\\newsletterappmvc\\newsletterappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,37 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Home\\Success.cshtml",
-              "RelativeDocumentMoniker": "NewsletterAPPMVC\\Views\\Home\\Success.cshtml",
-              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Home\\Success.cshtml",
-              "RelativeToolTip": "NewsletterAPPMVC\\Views\\Home\\Success.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T07:42:28.68Z",
+              "DocumentIndex": 1,
+              "Title": "SignupVm.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\ViewModels\\SignupVm.cs",
+              "RelativeDocumentMoniker": "NewsletterAPPMVC\\ViewModels\\SignupVm.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\ViewModels\\SignupVm.cs",
+              "RelativeToolTip": "NewsletterAPPMVC\\ViewModels\\SignupVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:14:59.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "NewsletterAPPMVC\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "NewsletterAPPMVC\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T23:11:00.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsletterSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Models\\NewsletterSignUp.cs",
+              "RelativeDocumentMoniker": "NewsletterAPPMVC\\Models\\NewsletterSignUp.cs",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Models\\NewsletterSignUp.cs",
+              "RelativeToolTip": "NewsletterAPPMVC\\Models\\NewsletterSignUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:07:04.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NewsletterAPPMVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "NewsletterAPPMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowBYAAABRAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwFsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T07:29:47.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NewsletterAPPMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NewsletterAPPMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T06:20:03.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NewsletterAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NewsletterAPPMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T06:15:42.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "NewsletterAPPMVC\\wwwroot\\css\\site.css",
@@ -69,32 +129,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-10T06:34:09.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "NewsletterAPPMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "NewsletterAPPMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T06:20:03.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NewsletterAPPMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Student\\OneDrive\\Documents\\GitHub\\C-Sharp-Projects\\NewsletterAPPMVC\\NewsletterAPPMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NewsletterAPPMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-10T06:15:42.309Z",
               "EditorCaption": ""
             }
           ]
