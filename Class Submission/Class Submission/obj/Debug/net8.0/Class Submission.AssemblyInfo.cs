@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class Submission")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97c6f6d2d0b29e26558cd0f7655625425d729c99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f6189df8d035350e8afdd2de79fec4d447a2406")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class Submission")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class Submission")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
